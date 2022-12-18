@@ -7,7 +7,7 @@ from datetime import date
 import pandas as pd
 import numpy as np
 from plotly import graph_objs as go
-from tkinter import *
+from tk import *
 from math import log, exp
 import pmdarima as pm
 from statsmodels.tsa.seasonal import STL
